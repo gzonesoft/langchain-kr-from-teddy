@@ -1,0 +1,6 @@
+﻿#라이브러리 설치(주석 이후 복사하여 터미널에서 실행합니다.)
+
+#pip install -r requirements.txt
+
+
+pyodbc
